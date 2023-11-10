@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "theres_something_in_the_water.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
